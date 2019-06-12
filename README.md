@@ -1,5 +1,5 @@
 # Simple keras tutorial
-This is a very simple tutorial to classify dog/cat images.
+- This is a very simple tutorial to classify dog/cat images.
 ## Prerequisites
 Install `numpy`, `pandas`, `tensorflow` and `keras` with `pip install`.
 ## Compilation
